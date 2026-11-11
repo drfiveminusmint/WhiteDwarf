@@ -39,7 +39,7 @@ Additionally, White Dwarf’s story explores many heavy and dark themes, some of
 # Installation
 
 ## Modern
-1) Make sure you have EV Nova Community Edition installed
+1) Make sure you have [EV Nova Community Edition](https://github.com/andrews05/EV-Nova-CE) installed
 2) Double-click the `White Dwarf.nplay` file to launch White Dwarf
 ## Classic
 1) Make a copy of your EV Nova folder (yes, the whole thing)
